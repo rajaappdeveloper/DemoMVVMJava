@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoMVVMJava</string>
+    <string name="tab1">ADD</string>
+    <string name="tab2">LIST</string>
+</resources>
